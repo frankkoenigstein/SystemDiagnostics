@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemDiagnostics", "SystemDiagnostics\SystemDiagnostics.csproj", "{029F421F-F75F-4707-8A80-E0AECA142535}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemDiagnosticsReader", "SystemDiagnosticsReader\SystemDiagnosticsReader.csproj", "{F3B27D38-B915-4FAA-8878-BA55395F4D3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{029F421F-F75F-4707-8A80-E0AECA142535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029F421F-F75F-4707-8A80-E0AECA142535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{029F421F-F75F-4707-8A80-E0AECA142535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{029F421F-F75F-4707-8A80-E0AECA142535}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3B27D38-B915-4FAA-8878-BA55395F4D3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3B27D38-B915-4FAA-8878-BA55395F4D3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3B27D38-B915-4FAA-8878-BA55395F4D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3B27D38-B915-4FAA-8878-BA55395F4D3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
